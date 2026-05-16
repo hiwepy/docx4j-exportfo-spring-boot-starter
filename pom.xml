@@ -298,7 +298,7 @@
         <maven-resources-plugin.version>3.0.2</maven-resources-plugin.version>
         <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
 		<maven-nexus-staging-plugin.version>1.6.8</maven-nexus-staging-plugin.version>
- 		<xmlgraphics-commons.version>2.2</xmlgraphics-commons.version>
+ 		<xmlgraphics-commons.version>2.6</xmlgraphics-commons.version>
  		<xmlgraphics-fop>2.2</xmlgraphics-fop>
 	</properties>
 
